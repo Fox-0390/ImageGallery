@@ -1,0 +1,125 @@
+c:\users\inozemtsev\documents\visual studio 2012\Projects\GalleryApp\GalleryApp\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\inozemtsev\documents\visual studio 2012\Projects\GalleryApp\GalleryApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\inozemtsev\documents\visual studio 2012\Projects\GalleryApp\GalleryApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\inozemtsev\documents\visual studio 2012\Projects\GalleryApp\GalleryApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\inozemtsev\documents\visual studio 2012\Projects\GalleryApp\GalleryApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\inozemtsev\documents\visual studio 2012\Projects\GalleryApp\GalleryApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\inozemtsev\documents\visual studio 2012\Projects\GalleryApp\GalleryApp\Bin\Debug\GalleryApp.dll
+c:\users\inozemtsev\documents\visual studio 2012\Projects\GalleryApp\GalleryApp\Bin\Debug\GalleryApp.pdb
+c:\users\inozemtsev\documents\visual studio 2012\Projects\GalleryApp\GalleryApp\Bin\Debug\AppManifest.xaml
+c:\users\inozemtsev\documents\visual studio 2012\Projects\GalleryApp\GalleryApp\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\inozemtsev\documents\visual studio 2012\Projects\GalleryApp\GalleryApp\Bin\Debug\GalleryApp_Debug_AnyCPU.xap
+c:\users\inozemtsev\documents\visual studio 2012\Projects\GalleryApp\GalleryApp\obj\Debug\App.g.cs
+c:\users\inozemtsev\documents\visual studio 2012\Projects\GalleryApp\GalleryApp\obj\Debug\MainPage.g.cs
+c:\users\inozemtsev\documents\visual studio 2012\Projects\GalleryApp\GalleryApp\obj\Debug\GalleryApp.g.resources
+c:\users\inozemtsev\documents\visual studio 2012\Projects\GalleryApp\GalleryApp\obj\Debug\GalleryApp.Resources.AppResources.resources
+c:\users\inozemtsev\documents\visual studio 2012\Projects\GalleryApp\GalleryApp\obj\Debug\GalleryApp.csproj.GenerateResource.Cache
+c:\users\inozemtsev\documents\visual studio 2012\Projects\GalleryApp\GalleryApp\obj\Debug\GalleryApp.dll
+c:\users\inozemtsev\documents\visual studio 2012\Projects\GalleryApp\GalleryApp\obj\Debug\GalleryApp.pdb
+c:\users\inozemtsev\documents\visual studio 2012\Projects\GalleryApp\GalleryApp\obj\Debug\XapCacheFile.xml
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\GalleryApp.dll
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\GalleryApp.pdb
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\AppManifest.xaml
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\GalleryApp_Debug_AnyCPU.xap
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Gallery.dll
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Coding4Fun.Phone.Controls.dll
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Gallery.pdb
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\obj\Debug\GalleryApp.csprojResolveAssemblyReference.cache
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\obj\Debug\App.g.cs
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\obj\Debug\MainPage.g.cs
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\obj\Debug\GalleryApp.g.resources
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\obj\Debug\GalleryApp.Resources.AppResources.resources
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\obj\Debug\GalleryApp.csproj.GenerateResource.Cache
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\obj\Debug\GalleryApp.dll
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\obj\Debug\GalleryApp.pdb
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\obj\Debug\XapCacheFile.xml
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Images\1.JPG
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Images\2.JPG
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Images\3.JPG
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Images\4.JPG
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Images\5.JPG
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Images\6.JPG
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Images\7.JPG
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Images\8.JPG
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Images\9.JPG
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Images\10.JPG
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Images\11.JPG
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Images\12.JPG
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Images\13.JPG
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Images\14.JPG
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Images\15.JPG
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Images\IMG_5319.JPG
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Images\IMG_5320.JPG
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Images\IMG_5321.JPG
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Images\IMG_5322.JPG
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Images\IMG_5323.JPG
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Images\IMG_5324.JPG
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Images\IMG_5325.JPG
+C:\Users\Hawk\Desktop\GalleryApp\GalleryApp\Bin\Debug\Images\IMG_5326.JPG
+C:\Users\inozemtsev\Desktop\GalleryApp\GalleryApp\Bin\Debug\1.png
+C:\Users\inozemtsev\Desktop\GalleryApp\GalleryApp\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\inozemtsev\Desktop\GalleryApp\GalleryApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\inozemtsev\Desktop\GalleryApp\GalleryApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\inozemtsev\Desktop\GalleryApp\GalleryApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\inozemtsev\Desktop\GalleryApp\GalleryApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\inozemtsev\Desktop\GalleryApp\GalleryApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\inozemtsev\Desktop\GalleryApp\GalleryApp\Bin\Debug\GalleryApp.dll.config
+C:\Users\inozemtsev\Desktop\GalleryApp\GalleryApp\Bin\Debug\GalleryApp.dll
+C:\Users\inozemtsev\Desktop\GalleryApp\GalleryApp\Bin\Debug\GalleryApp.pdb
+C:\Users\inozemtsev\Desktop\GalleryApp\GalleryApp\Bin\Debug\AppManifest.xaml
+C:\Users\inozemtsev\Desktop\GalleryApp\GalleryApp\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\inozemtsev\Desktop\GalleryApp\GalleryApp\Bin\Debug\GalleryApp_Debug_AnyCPU.xap
+C:\Users\inozemtsev\Desktop\GalleryApp\GalleryApp\Bin\Debug\Coding4Fun.Phone.Controls.dll
+C:\Users\inozemtsev\Desktop\GalleryApp\GalleryApp\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
+C:\Users\inozemtsev\Desktop\GalleryApp\GalleryApp\Bin\Debug\Gallery.dll
+C:\Users\inozemtsev\Desktop\GalleryApp\GalleryApp\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\inozemtsev\Desktop\GalleryApp\GalleryApp\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\inozemtsev\Desktop\GalleryApp\GalleryApp\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\inozemtsev\Desktop\GalleryApp\GalleryApp\obj\Debug\GalleryApp.csprojResolveAssemblyReference.cache
+C:\Users\inozemtsev\Desktop\GalleryApp\GalleryApp\obj\Debug\App.g.cs
+C:\Users\inozemtsev\Desktop\GalleryApp\GalleryApp\obj\Debug\MainPage.g.cs
+C:\Users\inozemtsev\Desktop\GalleryApp\GalleryApp\obj\Debug\GalleryApp.g.resources
+C:\Users\inozemtsev\Desktop\GalleryApp\GalleryApp\obj\Debug\GalleryApp.Resources.AppResources.resources
+C:\Users\inozemtsev\Desktop\GalleryApp\GalleryApp\obj\Debug\GalleryApp.csproj.GenerateResource.Cache
+C:\Users\inozemtsev\Desktop\GalleryApp\GalleryApp\obj\Debug\GalleryApp.dll
+C:\Users\inozemtsev\Desktop\GalleryApp\GalleryApp\obj\Debug\GalleryApp.pdb
+C:\Users\inozemtsev\Desktop\GalleryApp\GalleryApp\obj\Debug\XapCacheFile.xml
+C:\Users\inozemtsev\Desktop\GalleryApp\GalleryApp\Bin\Debug\Gallery.pdb
+C:\Users\inozemtsev\Desktop\GalleryApp\GalleryApp\obj\Debug\Page1.g.cs
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\Bin\Debug\1.png
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\Bin\Debug\GalleryApp.dll.config
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\Bin\Debug\GalleryApp.dll
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\Bin\Debug\GalleryApp.pdb
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\Bin\Debug\AppManifest.xaml
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\Bin\Debug\GalleryApp_Debug_AnyCPU.xap
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\Bin\Debug\Gallery.dll
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\Bin\Debug\Gallery.pdb
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\obj\Debug\GalleryApp.csprojResolveAssemblyReference.cache
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\obj\Debug\App.g.cs
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\obj\Debug\MainPage.g.cs
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\obj\Debug\Page1.g.cs
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\obj\Debug\GalleryApp.g.resources
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\obj\Debug\GalleryApp.Resources.AppResources.resources
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\obj\Debug\GalleryApp.csproj.GenerateResource.Cache
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\obj\Debug\GalleryApp.dll
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\obj\Debug\GalleryApp.pdb
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\obj\Debug\XapCacheFile.xml

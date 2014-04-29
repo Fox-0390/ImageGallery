@@ -1,0 +1,7 @@
+C:\Users\inozemtsev\Desktop\GalleryApp\Gallery\obj\x86\Debug\Gallery.g.resources
+C:\Users\inozemtsev\Desktop\GalleryApp\Gallery\Bin\x86\Debug\Gallery.dll
+C:\Users\inozemtsev\Desktop\GalleryApp\Gallery\Bin\x86\Debug\Gallery.pdb
+C:\Users\inozemtsev\Desktop\GalleryApp\Gallery\Bin\x86\Debug\Coding4Fun.Phone.Controls.dll
+C:\Users\inozemtsev\Desktop\GalleryApp\Gallery\Bin\x86\Debug\Microsoft.Phone.Controls.dll
+C:\Users\inozemtsev\Desktop\GalleryApp\Gallery\obj\x86\Debug\Gallery.dll
+C:\Users\inozemtsev\Desktop\GalleryApp\Gallery\obj\x86\Debug\Gallery.pdb

@@ -1,0 +1,32 @@
+c:\users\inozemtsev\documents\visual studio 2012\Projects\GalleryApp\Gallery\obj\Debug\Gallery.csprojResolveAssemblyReference.cache
+c:\users\inozemtsev\documents\visual studio 2012\Projects\GalleryApp\Gallery\Bin\Debug\Gallery.dll
+c:\users\inozemtsev\documents\visual studio 2012\Projects\GalleryApp\Gallery\Bin\Debug\Gallery.pdb
+c:\users\inozemtsev\documents\visual studio 2012\Projects\GalleryApp\Gallery\Bin\Debug\Coding4Fun.Phone.Controls.dll
+c:\users\inozemtsev\documents\visual studio 2012\Projects\GalleryApp\Gallery\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\inozemtsev\documents\visual studio 2012\Projects\GalleryApp\Gallery\obj\Debug\Gallery.dll
+c:\users\inozemtsev\documents\visual studio 2012\Projects\GalleryApp\Gallery\obj\Debug\Gallery.pdb
+C:\Users\Hawk\Desktop\GalleryApp\Gallery\Bin\Debug\Gallery.dll
+C:\Users\Hawk\Desktop\GalleryApp\Gallery\Bin\Debug\Gallery.pdb
+C:\Users\Hawk\Desktop\GalleryApp\Gallery\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Hawk\Desktop\GalleryApp\Gallery\obj\Debug\Gallery.g.resources
+C:\Users\Hawk\Desktop\GalleryApp\Gallery\obj\Debug\Gallery.dll
+C:\Users\Hawk\Desktop\GalleryApp\Gallery\obj\Debug\Gallery.pdb
+C:\Users\inozemtsev\Desktop\GalleryApp\Gallery\Bin\Debug\Gallery.dll
+C:\Users\inozemtsev\Desktop\GalleryApp\Gallery\Bin\Debug\1.png
+C:\Users\inozemtsev\Desktop\GalleryApp\Gallery\Bin\Debug\Coding4Fun.Phone.Controls.dll
+C:\Users\inozemtsev\Desktop\GalleryApp\Gallery\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
+C:\Users\inozemtsev\Desktop\GalleryApp\Gallery\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\inozemtsev\Desktop\GalleryApp\Gallery\obj\Debug\Gallery.g.resources
+C:\Users\inozemtsev\Desktop\GalleryApp\Gallery\obj\Debug\Gallery.dll
+C:\Users\inozemtsev\Desktop\GalleryApp\Gallery\obj\Debug\Gallery.pdb
+C:\Users\inozemtsev\Desktop\GalleryApp\Gallery\Bin\Debug\Gallery.pdb
+C:\Users\inozemtsev\Desktop\GalleryApp\Gallery\obj\Debug\Gallery.csprojResolveAssemblyReference.cache
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\Gallery\Bin\Debug\1.png
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\Gallery\Bin\Debug\Gallery.dll
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\Gallery\Bin\Debug\Gallery.pdb
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\Gallery\Bin\Debug\Coding4Fun.Toolkit.Controls.dll
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\Gallery\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\Gallery\obj\Debug\Gallery.csprojResolveAssemblyReference.cache
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\Gallery\obj\Debug\Gallery.g.resources
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\Gallery\obj\Debug\Gallery.dll
+C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\Gallery\obj\Debug\Gallery.pdb
