@@ -116,7 +116,6 @@ C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\Gal
 C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\obj\Debug\GalleryApp.csprojResolveAssemblyReference.cache
 C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\obj\Debug\App.g.cs
 C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\obj\Debug\MainPage.g.cs
-C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\obj\Debug\Page1.g.cs
 C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\obj\Debug\GalleryApp.g.resources
 C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\obj\Debug\GalleryApp.Resources.AppResources.resources
 C:\Users\inozemtsev\Documents\Visual Studio 2012\Projects\Mygit\ImageGallery\GalleryApp\obj\Debug\GalleryApp.csproj.GenerateResource.Cache
